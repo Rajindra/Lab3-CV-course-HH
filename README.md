@@ -15,4 +15,3 @@ Select GPU from the Hardware Accelerator drop-down
 
 To submit the answers from the lab, go to "runtime" -> "restart and run all," download the Jupiter notebook by going to File -> download -> download .ipynb and submit the file to Blackboard
 
-The deadline for the submission (subject to change) is June 23rd
